@@ -1,7 +1,11 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-family: arial;
 }
 body{
   background-color: #ccc;
+}
+label{
+  width: 300px;
 }
