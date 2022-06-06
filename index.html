@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<heade>
+	<head>
 		<title>Page d'accueil</title>
 		<meta charset="utf-8"/>
 		<link rel="stylesheet" href="assets/style.css"/>
