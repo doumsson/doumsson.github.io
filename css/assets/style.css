@@ -4,8 +4,9 @@
     font-family: arial;
 }
 body{
-  background-color: #ccc;
+    background-color: #ccc;
 }
 label{
-  width: 300px;
+    display: inline-block;
+    width: 300px;
 }
